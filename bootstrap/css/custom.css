@@ -1,0 +1,30 @@
+@font-face{
+	font-family: libre_baskerville;
+	src:url(../../LibreBaskervilleFont/LibreBaskerville-Bold.ttf);
+}
+
+.font{
+	font-family: libre_baskerville;
+}
+
+.logo_image{
+	width: 120px;
+	height: 40px;
+}
+
+.carousel-item {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.carousel_text{
+	position: absolute;
+	top: 50%;
+	left: 50%; 
+	transform: translate( -50%, -50%)	
+}
+
+.a{
+	color:  #E4790D;
+}
